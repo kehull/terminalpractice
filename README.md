@@ -1,0 +1,2 @@
+# terminalpractice
+for class activity
